@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 Privacy Policy for My Zetamac Score Browser Extension
 
 Effective Date: May 10th 2024
